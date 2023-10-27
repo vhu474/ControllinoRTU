@@ -27,4 +27,5 @@ Go to Open->Examples->ControllinoRTU and open the example sketch
 
 Then, Choose your Controllino Board which must have the RS485 pinouts
 
-Download the included .etmp HMI file into a weintek compatible screen, and connect COM2 to RS485 pins on the CONTROLLINO. You may modify the COM port and it should still work.
+Download the included .etmp HMI file into a weintek compatible screen, and connect COM2 to RS485 pins on the CONTROLLINO. You may modify the COM port and it should still work. As long as the appropriate 2W 485 pins are connected, with the screen configured to 9600 8N1.
+
