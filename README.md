@@ -1,13 +1,13 @@
 README.txt
 
-libmodbus is a library that provides a Serial Modbus implementation for Controllino.
+ControllinoRTU is a library that provides a Serial Modbus implementation for Controllino.
 
 A primary goal was to enable industrial communication for the Arduino in order to link it to industrial devices such as HMIs, CNCs, PLCs, temperature regulators or speed drives.
 
 http://arduino.cc/en/Guide/Libraries
 
 Code was forked from the repo: 
-https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino to work with Serial3 port of the Arduino MEGA
+https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino to work with Serial3 port of the Arduino MEGA. Credit to the original creator.
 
 
 To install:
